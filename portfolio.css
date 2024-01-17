@@ -1,0 +1,151 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.header{
+    height: 60px;
+    width: 100%;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    padding-left: 10px;
+    font-size:xx-large;
+}
+
+.header1{
+    height: 40px;
+    width: 100%;
+    list-style: none;
+    display: flex;
+    padding-left:800px;
+    column-gap: 20px;
+    justify-content:space-evenly;
+    align-items: center;
+}
+
+.t{
+    color: black;
+    text-decoration: none;
+    font-size: medium;
+}
+
+.header2{
+    height: 300px;
+    width: 100%;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.img{    
+    background-color:aliceblue;
+    padding: 16px 30px;
+    padding-right: 150px;
+}
+
+.name{
+    font-size:xx-large;
+    color: darkgray;
+    padding-left: 150px;
+    font-weight: 700;
+}
+
+.text{
+    padding-left: 150px;
+}
+
+.text2{
+    padding-left: 150px;
+}
+
+.clg{
+    color: black;
+    text-decoration: none;
+    padding-left: 150px;
+}
+
+.header3{
+    background-color: aliceblue;
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.ser{
+    background-color: aliceblue;
+    padding-top: 20px;
+    padding-left: 40px;
+    font-size: x-large;
+    font-weight: 600;
+}
+
+.html{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 10px;
+    box-shadow: 0 0 4px black;
+    border-radius: 15px;
+    background-color: white;
+}
+
+.icon{
+    font-size:xx-large;
+    align-self: center;
+}
+
+.py{
+    font-size:xx-large;
+    align-self: center;
+}
+
+.cicon{
+    font-size:xx-large;
+    align-self: center;
+}
+
+.Python{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 10px;
+    box-shadow: 0 0 4px black;
+    border-radius: 15px;
+    background-color: white;
+}
+
+.C{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 10px;
+    box-shadow: 0 0 4px black;
+    border-radius: 15px;
+    background-color: white;
+}
+
+.web{
+    font-weight: 700;
+}
+
+.vp{
+    background-color: darkgray;
+    border-radius: 5px;
+}
+
+.vp:hover{
+    background-color: aliceblue;
+    color: black;
+}
+
+.b1{
+    color: black;
+    text-decoration: none;
+}
